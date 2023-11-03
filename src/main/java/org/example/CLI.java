@@ -61,16 +61,13 @@ public class CLI {
                     System.out.println("2. Update Student");
                     System.out.println("3. Delete Student");
 
-
                     System.out.print("Enter your option: ");
                     option = scanner.nextInt();
 
                     if (option == 1) {
                         System.out.println("You selected 'Add Student'.");
-
                     } else if (option == 2) {
                         System.out.println("You selected 'Update Student'.");
-                        // Adicione o código para atualizar um aluno aqui.
                     } else if (option == 3) {
                         System.out.println("You selected 'Delete Student'.");
                         break;
@@ -78,7 +75,6 @@ public class CLI {
                         System.out.println("Invalid action. Please select a valid option.");
                     }
                 }
-
                 scanner.close();
             }
         }
