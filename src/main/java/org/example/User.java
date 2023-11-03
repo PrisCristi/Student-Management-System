@@ -1,15 +1,14 @@
 package org.example;
 
-import java.util.AbstractMap;
-import java.util.HashMap;
-
 public class User {
     private String userName;
+    private String userRole;
     private String login;
 
-    public User(String userName, String login) {
+    public User(String userName, String login, String userRole) {
         this.userName = userName;
         this.login = login;
+        this.userRole = userRole;
     }
     public String getUserName() {
         return userName;
@@ -22,6 +21,14 @@ public class User {
     }
     public void setLogin(String login) {
         this.login = login;
+    }
+
+    public String getUserRole() {
+        return userRole;
+    }
+
+    public void setUserRole(String userRole) {
+        this.userRole = userRole;
     }
 }
 

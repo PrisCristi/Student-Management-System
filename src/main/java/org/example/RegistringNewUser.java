@@ -5,5 +5,4 @@ import java.util.List;
 
 public class RegistringNewUser {
    private List<User> users = new ArrayList<> ();
-
 }
