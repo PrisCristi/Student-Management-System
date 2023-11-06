@@ -1,5 +1,8 @@
 package org.example;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class User {
     private String userName;
     private String userRole;
@@ -22,11 +25,9 @@ public class User {
     public void setLogin(String login) {
         this.login = login;
     }
-
     public String getUserRole() {
         return userRole;
     }
-
     public void setUserRole(String userRole) {
         this.userRole = userRole;
     }

@@ -1,0 +1,33 @@
+
+
+java:S1192"nDefine a constant instead of duplicating this literal "Invalid action. Please select a valid option." 3 times.(ôÔ…ğûÿÿÿÿ8§Øî­¹1
+D
+java:S2189A""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ë¥ò­¹1
+D
+java:S2189$""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8âØî­¹1
+L	java:S106"+Replace this use of System.out by a logger.(Û¤¦©ıÿÿÿÿ8íØî­¹1
+L	java:S106"+Replace this use of System.out by a logger.(¾Û®üÿÿÿÿ8íØî­¹1
+G	java:S106"+Replace this use of System.out by a logger.(¦É´ü8îØî­¹1
+L	java:S106"+Replace this use of System.out by a logger.(ôÔ…ğûÿÿÿÿ8ïØî­¹1
+L	java:S106%"+Replace this use of System.out by a logger.(İë‘…şÿÿÿÿ8ñØî­¹1
+L	java:S106&"+Replace this use of System.out by a logger.(ã«şùÿÿÿÿ8ñØî­¹1
+L	java:S106'"+Replace this use of System.out by a logger.(ñŠ¥ÿÿÿÿÿ8ñØî­¹1
+G	java:S106)"+Replace this use of System.out by a logger.(ò¢¨ÿ8òØî­¹1
+G	java:S106."+Replace this use of System.out by a logger.(œ€ˆú8òØî­¹1
+L	java:S1061"+Replace this use of System.out by a logger.(°¢ÊÉıÿÿÿÿ8òØî­¹1
+L	java:S1064"+Replace this use of System.out by a logger.(èÄòúÿÿÿÿ8óØî­¹1
+L	java:S1067"+Replace this use of System.out by a logger.(ôÔ…ğûÿÿÿÿ8óØî­¹1
+L	java:S106B"+Replace this use of System.out by a logger.(ã©­…ùÿÿÿÿ8õØî­¹1
+L	java:S106C"+Replace this use of System.out by a logger.(É©ÿóùÿÿÿÿ8õØî­¹1
+G	java:S106D"+Replace this use of System.out by a logger.(ÆË§ğ8öØî­¹1
+G	java:S106F"+Replace this use of System.out by a logger.(¾Óô‘8öØî­¹1
+G	java:S106J"+Replace this use of System.out by a logger.(ÿ»³€8öØî­¹1
+L	java:S106M"+Replace this use of System.out by a logger.(î¯Äÿÿÿÿÿ8÷Øî­¹1
+G	java:S106P"+Replace this use of System.out by a logger.(İ–›8÷Øî­¹1
+L	java:S106S"+Replace this use of System.out by a logger.(ôÔ…ğûÿÿÿÿ8÷Øî­¹1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8é¥ò­¹1
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18é¥ò­¹1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ê¥ò­¹1

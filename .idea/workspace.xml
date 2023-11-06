@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5ad40e8-bf94-439c-8aa8-8b250900f58e" name="Changes" comment="" />
+    <list default="true" id="b5ad40e8-bf94-439c-8aa8-8b250900f58e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CourseManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DataPersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GradingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SearchAndSortFuncionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UserManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CLI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CLI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RegistringNewUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentManagentSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StudentManagent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,25 +32,49 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/CLI.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2XesCpyIiy9rPaJ4bvu0mO9m7GR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CLI">
     <configuration name="CLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.CLI" />
+      <module name="StudentManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.UserManagement" />
       <module name="StudentManagementSystem" />
       <extension name="coverage">
         <pattern>
@@ -53,6 +89,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.CLI" />
+        <item itemvalue="Application.UserManagement" />
       </list>
     </recent_temporary>
   </component>
@@ -66,5 +103,16 @@
       <updated>1699000761849</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
